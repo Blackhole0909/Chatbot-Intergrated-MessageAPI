@@ -1,4 +1,4 @@
-# Tomaz Bot
+Chatbot-Intergrated-MessageAPI
 
 > Formerly stingky-tufo line bot.
 > 
